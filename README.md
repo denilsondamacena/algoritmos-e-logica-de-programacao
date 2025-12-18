@@ -32,4 +32,20 @@
 > Exercício 27 - Cálculo de Velocidade Média
 > Exercício 28 - Ajuste de Preço
 > Exercício 29 - Rendimento
+> Exercício 30 – Idade em Anos, Meses e Dias
+> Exercício 31 – Calculando Quadrado entre Valores
+> Exercício 32 – Fatorial
+> Exercício 33 – Cálculo de Série Harmônica
+> Exercício 34 – Tabuada
+> Exercício 35 – Somatória de Números Ímpares
+> Exercício 36 – Série com Fatorial
+> Exercício 37 – Sequência de Fibonacci
+> Exercício 38 – Maior e Menor Valor Positivo
+> Exercício 39 – Grãos no Tabuleiro de Xadrez
+> Exercício 40 – Números Primos
+> Exercício 41 – Combinações de Dados com Soma 7
+> Exercício 42 – Cálculo de Série Numérica
+> Exercício 43 – Evolução de Altura
+> Exercício 44 – Potência
+> Exercício 45 – Série Alternada com Potências
 > ```
