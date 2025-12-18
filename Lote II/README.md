@@ -1,0 +1,41 @@
+# Modularizar os exercícios do Lote I utilizando procedimentos (sem retorno) do exercício 16 ao 29, e funções (com retorno) do exercício 30 ao 45.
+
+### Lote II
+
+#### Com Procedimento (sem retorno)
+> ```
+> Exercício 16 - Cálculo de Salário (com Procedimento)
+> Exercício 17 - Cálculo de Combustível (com Procedimento)
+> Exercício 18 - Diferença de Valores Inteiros (com Procedimento)
+> Exercício 19 - Maior Valor Real (com Procedimento)
+> Exercício 20 - Equação do Segundo Grau (com Procedimento)
+> Exercício 21 - Média (com Procedimento)
+> Exercício 22 - Ordem Crescente (com Procedimento)
+> Exercício 23 - Divisível por 2 e 3 (com Procedimento)
+> Exercício 24 - Ordenar Quatro Valores (com Procedimento)
+> Exercício 25 - Cálculo de Duração (com Procedimento)
+> Exercício 26 - Maior múltiplo do menor (com Procedimento)
+> Exercício 27 - Cálculo de Velocidade Média (com Procedimento)
+> Exercício 28 - Ajuste de Preço (com Procedimento)
+> Exercício 29 - Rendimento (com Procedimento)
+> ```
+
+#### Com Função (com retorno)
+> ```
+> Exercício 30 – Idade em Anos, Meses e Dias (com Função)
+> Exercício 31 – Calculando Quadrado entre Valores (com Função)
+> Exercício 32 – Fatorial (com Função)
+> Exercício 33 – Cálculo de Série Harmônica (com Função)
+> Exercício 34 – Tabuada (com Função)
+> Exercício 35 – Somatória de Números Ímpares (com Função)
+> Exercício 36 – Série com Fatorial (com Função)
+> Exercício 37 – Sequência de Fibonacci (com Função)
+> Exercício 38 – Maior e Menor Valor Positivo (com Função)
+> Exercício 39 – Grãos no Tabuleiro de Xadrez (com Função)
+> Exercício 40 – Números Primos (com Função)
+> Exercício 41 – Combinações de Dados com Soma 7 (com Função)
+> Exercício 42 – Cálculo de Série Numérica (com Função)
+> Exercício 43 – Evolução de Altura (com Função)
+> Exercício 44 – Potência (com Função)
+> Exercício 45 – Série Alternada com Potências (com Função)
+> ```
