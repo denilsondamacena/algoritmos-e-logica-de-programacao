@@ -84,3 +84,20 @@
 > Exercício 44 - Potência (com Função)
 > Exercício 45 - Série Alternada com Potências (com Função)
 > ```
+
+### Lote III
+
+> ```
+> Exercício 1 – Média e Soma de Valores em Vetor [50]
+> Exercício 2 – Maior, Menor e Média em Vetor [100]
+> Exercício 3 – Concatenar Vetores
+> Exercício 4 – Média e Análise de Notas em Vetor [30]
+> Exercício 5 – Somatório em Vetor [20]
+> Exercício 6 – Ordenação Crescente em Vetor Aleatório [20]
+> Exercício 7 – Pesquisa Binária em Vetor
+> Exercício 8 – Quantidade de Produtos Vendidos em Matriz [4][3]
+> Exercício 9 – Matriz [4][4] com Multiplicação na Diagonal
+> Exercício 10 – Matriz [8][8] com Potencia
+> Exercício 11 – Matriz [8][8] em Caracol
+> Exercício 12 – Soma de Peças em Tabuleiro de Xadrez
+> ```
