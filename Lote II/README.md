@@ -54,7 +54,7 @@
 >| >= 500 e < 1000 | >= 30 e < 80 | +15%       |
 >| >= 1000         | >= 80        | -5%        |
 
-Obs.: para outras condições, preço novo será igual ao preço atual.
+*Obs.: para outras condições, preço novo será igual ao preço atual.*
 
 ### Exercício 29 - Rendimento (com Procedimento)
 > Receba o tipo de investimento (1 = poupança e 2 = renda fixa) e o valor do investimento. Calcule e mostre o valor corrigido em 30 dias sabendo que a poupança = 3% e a renda fixa = 5%. Demais tipos não serão considerados.
