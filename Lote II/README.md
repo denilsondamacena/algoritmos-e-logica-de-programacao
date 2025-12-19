@@ -53,8 +53,8 @@
 >| < 500           | < 30         | +10%       |
 >| >= 500 e < 1000 | >= 30 e < 80 | +15%       |
 >| >= 1000         | >= 80        | -5%        |
-
-*Obs.: para outras condições, preço novo será igual ao preço atual.*
+>
+>**Obs.: para outras condições, preço novo será igual ao preço atual.**
 
 ### Exercício 29 - Rendimento (com Procedimento)
 > Receba o tipo de investimento (1 = poupança e 2 = renda fixa) e o valor do investimento. Calcule e mostre o valor corrigido em 30 dias sabendo que a poupança = 3% e a renda fixa = 5%. Demais tipos não serão considerados.
@@ -75,7 +75,7 @@ Com Função **(com retorno)**
 > Receba um número. Calcule e mostre a série 1 + 1/2 + 1/3 + ... + 1/N.
 
 ### Exercício 34 – Tabuada (com Função)
-> Receba um número. Calcule e mostre os resultados da tabuada desse número
+> Receba um número. Calcule e mostre os resultados da tabuada desse número.
 
 ### Exercício 35 – Somatória de Números Ímpares (com Função)
 > Receba 2 números inteiros, verifique qual o maior entre eles. Calcule e mostre o resultado da somatória dos números ímpares entre esses valores.
@@ -87,7 +87,8 @@ Com Função **(com retorno)**
 > Receba um número inteiro. Calcule e mostre a série de Fibonacci até o seu n-ésimo termo.
 
 ### Exercício 38 – Maior e Menor Valor Positivo (com Função)
-> Receba 100 números inteiros. Verifique e mostre o maior e o menor valor. <br>*Observação: somente valores positivos.*
+> Receba 100 números inteiros. Verifique e mostre o maior e o menor valor. <br>
+>**Observação: somente valores positivos.**
 
 
 ### Exercício 39 – Grãos no Tabuleiro de Xadrez (com Função)

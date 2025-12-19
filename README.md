@@ -101,3 +101,16 @@
 > Exercício 11 – Matriz [8][8] em Caracol
 > Exercício 12 – Soma de Peças em Tabuleiro de Xadrez
 > ```
+
+### Extras
+> ```
+> Extra – Caixa Eletrônico
+> Extra – Média Matriz [200][5] (com Modularização)
+> Extra – Tabela Campeonato
+> Extra – Tabuleiro de Xadrez [8][8] (com Modularização)
+> Extra – Função Recursiva I
+> Extra – Função Recursiva II
+> Extra – Função Recursiva III
+> Extra – Função Recursiva IV
+> Extra – Função Recursiva V
+> ```
