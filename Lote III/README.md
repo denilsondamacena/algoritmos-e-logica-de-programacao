@@ -63,7 +63,7 @@ Criar e carregar uma matriz [4][4] com valores aleatórios, sendo que a diagonal
 |   |   | 16 |    |
 |   |   |    | 64 |
 
-### Exercício 10 – Matriz [8][8] com Potencia
+### Exercício 10 – Matriz [8][8] com Potência
 Criar uma matriz [8][8] onde o programa irá carregar segundo:
 | casa  | 1 | 2 | 3 | 4 | ... |                         |
 |-------|---|---|---|---|-----|-------------------------|
