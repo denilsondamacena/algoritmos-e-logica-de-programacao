@@ -1,4 +1,4 @@
-## Lote 1
+## Lote I
 ### Exercício 1 – Área de um quadrado
 Coletar o valor do lado de um quadrado, calcular sua área e apresentar o resultado.
 ### Exercício 2 – Reajuste de salário
