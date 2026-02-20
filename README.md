@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://i.servimg.com/u/f37/19/57/66/06/lite312.png"
+       alt="Java Logo"
+       width="200"
+       height="300">
+</p>
+
+
 ## Exercícios de Algoritmos
 
 ### Lote I
