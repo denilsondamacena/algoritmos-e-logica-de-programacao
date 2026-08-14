@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://i.servimg.com/u/f37/19/57/66/06/lite312.png"
-       alt="Java Logo"
-       width="200"
-       height="300">
+  <img src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png"
+       alt="Portugol Logo"
+       width="150"
+       height="150">
 </p>
 
 
